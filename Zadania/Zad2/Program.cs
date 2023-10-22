@@ -11,7 +11,7 @@ public class Parliament
     private string title;
 
     // Add a dictionary to store the votes
-    public Dictionary<string, int> Votes { get; private set; } = new Dictionary<string, int>();
+    public Dictionary<int, int> Votes { get; private set; } = new Dictionary<int, int>();
 
     public void StartVoting(string title)
     {
@@ -48,20 +48,20 @@ public class Parliament
 public class ParliamentMember
 {
     private static Random rand = new Random();
-    public string Name { get; private set; }
+    public int Name { get; private set; }
     private bool canVote;
 
-    public ParliamentMember(string name, Parliament parliament)
+    public ParliamentMember(int name, Parliament parliament)
     {
         Name = name;
         parliament.OnVoteStart += (message) => 
         {
-            Console.WriteLine($"{Name} heard: {message}");
+            //Console.WriteLine($"{Name} heard: {message}");
             canVote = true;
         };
         parliament.OnVoteEnd += (message) => 
         {
-            Console.WriteLine($"{Name} heard: {message}");
+            //Console.WriteLine($"{Name} heard: {message}");
             canVote = false;
         };
     }
@@ -87,31 +87,67 @@ class Program
     static void Main(string[] args)
     {
         Parliament parliament = new Parliament();
+        //list was for testing purposes
         List<ParliamentMember> members = new List<ParliamentMember>
         {
-            new ParliamentMember("Member1", parliament),
-            new ParliamentMember("Member2", parliament),
-            new ParliamentMember("Member3", parliament),
-            new ParliamentMember("Member4", parliament),
-            new ParliamentMember("Member5", parliament)
+            new ParliamentMember(1, parliament),
+            new ParliamentMember(2, parliament),
+            new ParliamentMember(3, parliament),
+            new ParliamentMember(4, parliament),
+            new ParliamentMember(5, parliament)
             // Add more members as needed
         };
-        
+        //dictionary of parialment members
+        Dictionary<int, ParliamentMember> membersDict = new Dictionary<int, ParliamentMember>();
         foreach (var member in members)
         {
-            member.Vote(parliament);
+            membersDict.Add(member.Name, member);
         }
         
-        parliament.StartVoting("Witty Title");
+        string input = "";
+        int result = -1;
+        while (input!="EXIT")
+        {
+            Console.WriteLine("START title - Start voting");
+            Console.WriteLine("END - End voting");
+            Console.WriteLine("EXIT - Exit");
+            Console.WriteLine("Enter a member number to vote");
+            
+            input = Console.ReadLine();
+            Console.Clear();
+            
+            if ( input.Length >5 && input.Substring(0, 5) == "START")
+            {
+                parliament.StartVoting(input.Substring(6));
+            }
+            else if (input == "END")
+            {
+                parliament.EndVoting();
+            }
+            else if (int.TryParse(input, out result) && membersDict.ContainsKey(result))
+            {
+                membersDict[result].Vote(parliament);
+            }
+        }
         
-        foreach (var member in members)
-        {
-            member.Vote(parliament);
-        }
-        parliament.EndVoting();
-        foreach (var member in members)
-        {
-            member.Vote(parliament);
-        }
+        
+       // foreach loops for automatic voting testing
+       
+         // foreach (var member in members)
+         // {
+         //     member.Vote(parliament);
+         // }
+         //
+         // parliament.StartVoting("Witty Title");
+         //
+         // foreach (var member in members)
+         // {
+         //     member.Vote(parliament);
+         // }
+         // parliament.EndVoting();
+         // foreach (var member in members)
+         // {
+         //     member.Vote(parliament);
+         // }
     }
 }
