@@ -5,11 +5,11 @@
     <PropertyGroup>
         <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
         <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-        <ProjectGuid>{C79D587C-BB43-4E4A-8D07-E2CCB07FF274}</ProjectGuid>
+        <ProjectGuid>{913D6AED-0315-4A75-9EAE-DA5BFF6AA058}</ProjectGuid>
         <OutputType>Exe</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
-        <RootNamespace>Zadanie2</RootNamespace>
-        <AssemblyName>Zadanie2</AssemblyName>
+        <RootNamespace>Zad2</RootNamespace>
+        <AssemblyName>Zad2</AssemblyName>
         <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
         <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

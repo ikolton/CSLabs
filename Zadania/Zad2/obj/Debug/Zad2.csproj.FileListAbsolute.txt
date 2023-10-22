@@ -1,0 +1,6 @@
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad2\bin\Debug\Zad2.exe
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad2\bin\Debug\Zad2.pdb
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad2\obj\Debug\Zad2.csproj.AssemblyReference.cache
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad2\obj\Debug\Zad2.csproj.CoreCompileInputs.cache
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad2\obj\Debug\Zad2.exe
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad2\obj\Debug\Zad2.pdb
