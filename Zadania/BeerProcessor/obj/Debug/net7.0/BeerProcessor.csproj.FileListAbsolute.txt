@@ -1,0 +1,15 @@
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\BeerProcessor\bin\Debug\net7.0\BeerProcessor.deps.json
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\BeerProcessor\bin\Debug\net7.0\BeerProcessor.dll
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\BeerProcessor\bin\Debug\net7.0\BeerProcessor.pdb
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\BeerProcessor\bin\Debug\net7.0\Common.dll
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\BeerProcessor\bin\Debug\net7.0\Common.pdb
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\BeerProcessor\obj\Debug\net7.0\BeerProcessor.csproj.AssemblyReference.cache
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\BeerProcessor\obj\Debug\net7.0\BeerProcessor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\BeerProcessor\obj\Debug\net7.0\BeerProcessor.AssemblyInfoInputs.cache
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\BeerProcessor\obj\Debug\net7.0\BeerProcessor.AssemblyInfo.cs
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\BeerProcessor\obj\Debug\net7.0\BeerProcessor.csproj.CoreCompileInputs.cache
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\BeerProcessor\obj\Debug\net7.0\BeerProcessor.csproj.CopyComplete
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\BeerProcessor\obj\Debug\net7.0\BeerProcessor.dll
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\BeerProcessor\obj\Debug\net7.0\refint\BeerProcessor.dll
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\BeerProcessor\obj\Debug\net7.0\BeerProcessor.pdb
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\BeerProcessor\obj\Debug\net7.0\ref\BeerProcessor.dll

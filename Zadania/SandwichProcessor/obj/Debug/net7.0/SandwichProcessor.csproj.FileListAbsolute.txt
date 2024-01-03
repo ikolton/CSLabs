@@ -1,0 +1,15 @@
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\SandwichProcessor\bin\Debug\net7.0\SandwichProcessor.deps.json
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\SandwichProcessor\bin\Debug\net7.0\SandwichProcessor.dll
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\SandwichProcessor\bin\Debug\net7.0\SandwichProcessor.pdb
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\SandwichProcessor\bin\Debug\net7.0\Common.dll
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\SandwichProcessor\bin\Debug\net7.0\Common.pdb
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\SandwichProcessor\obj\Debug\net7.0\SandwichProcessor.csproj.AssemblyReference.cache
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\SandwichProcessor\obj\Debug\net7.0\SandwichProcessor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\SandwichProcessor\obj\Debug\net7.0\SandwichProcessor.AssemblyInfoInputs.cache
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\SandwichProcessor\obj\Debug\net7.0\SandwichProcessor.AssemblyInfo.cs
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\SandwichProcessor\obj\Debug\net7.0\SandwichProcessor.csproj.CoreCompileInputs.cache
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\SandwichProcessor\obj\Debug\net7.0\SandwichProcessor.csproj.CopyComplete
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\SandwichProcessor\obj\Debug\net7.0\SandwichProcessor.dll
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\SandwichProcessor\obj\Debug\net7.0\refint\SandwichProcessor.dll
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\SandwichProcessor\obj\Debug\net7.0\SandwichProcessor.pdb
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\SandwichProcessor\obj\Debug\net7.0\ref\SandwichProcessor.dll

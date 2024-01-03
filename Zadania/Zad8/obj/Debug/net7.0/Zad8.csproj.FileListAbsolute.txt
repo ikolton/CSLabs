@@ -1,0 +1,15 @@
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad8\bin\Debug\net7.0\Zad8.exe
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad8\bin\Debug\net7.0\Zad8.deps.json
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad8\bin\Debug\net7.0\Zad8.runtimeconfig.json
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad8\bin\Debug\net7.0\Zad8.dll
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad8\bin\Debug\net7.0\Zad8.pdb
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad8\obj\Debug\net7.0\Zad8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad8\obj\Debug\net7.0\Zad8.AssemblyInfoInputs.cache
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad8\obj\Debug\net7.0\Zad8.AssemblyInfo.cs
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad8\obj\Debug\net7.0\Zad8.csproj.CoreCompileInputs.cache
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad8\obj\Debug\net7.0\Zad8.sourcelink.json
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad8\obj\Debug\net7.0\Zad8.dll
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad8\obj\Debug\net7.0\refint\Zad8.dll
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad8\obj\Debug\net7.0\Zad8.pdb
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad8\obj\Debug\net7.0\Zad8.genruntimeconfig.cache
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad8\obj\Debug\net7.0\ref\Zad8.dll

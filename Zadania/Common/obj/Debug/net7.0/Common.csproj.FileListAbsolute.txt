@@ -1,0 +1,11 @@
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Common\bin\Debug\net7.0\Common.deps.json
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Common\bin\Debug\net7.0\Common.dll
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Common\bin\Debug\net7.0\Common.pdb
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Common\obj\Debug\net7.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Common\obj\Debug\net7.0\Common.AssemblyInfoInputs.cache
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Common\obj\Debug\net7.0\Common.AssemblyInfo.cs
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Common\obj\Debug\net7.0\Common.csproj.CoreCompileInputs.cache
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Common\obj\Debug\net7.0\Common.dll
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Common\obj\Debug\net7.0\refint\Common.dll
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Common\obj\Debug\net7.0\Common.pdb
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Common\obj\Debug\net7.0\ref\Common.dll
