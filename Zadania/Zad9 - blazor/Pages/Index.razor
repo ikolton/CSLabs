@@ -1,0 +1,116 @@
+﻿@page "/"
+
+<PageTitle>Biblioteka</PageTitle>
+
+<h3>Dodaj nową stronę</h3>
+
+<div class="input-group mb-3">
+    <input @bind="newUrl" class="form-control" placeholder="Wprowadź adres URL" />
+    <div class="input-group-append">
+        <button class="btn btn-outline-secondary" type="button" @onclick="DodajStrone">Dodaj</button>
+    </div>
+</div>
+
+@if (!string.IsNullOrEmpty(lastAddedUrl))
+{
+    <div class="card mb-3">
+        <div class="card-body">
+            <h4>@lastAddedTitle</h4>
+        </div>
+    </div>
+}
+else
+{
+    <div class="card mb-3">
+        <div class="card-body">
+            <h4>Blank</h4>
+        </div>
+    </div>
+}
+
+<style>
+    .card-deck-container {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        gap: 15px;
+        padding: 20px;
+        background-color: #e6e6fa;
+        border: 1px solid #ccc;
+        border-radius: 10px;
+    }
+
+    .custom-card {
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        overflow: hidden;
+        transition: transform 0.3s ease-in-out;
+    }
+
+        .custom-card:hover {
+            transform: scale(1.05);
+        }
+</style>
+
+<div class="card-deck-container">
+    @if (bookmarks.Any())
+    {
+        @foreach (var bookmark in bookmarks)
+        {
+            <NavLink class="custom-card card" href="@bookmark.Url" target="_blank">
+                <div class="card-body">
+                    <h5 class="card-title">@bookmark.Title</h5>
+                </div>
+            </NavLink>
+        }
+    }
+    else
+    {
+        <h3>Brak stron</h3>
+    }
+</div>
+
+@code {
+    private string newUrl = "";
+    private string lastAddedUrl = "";
+    private string lastAddedTitle = "";
+
+    private List<Bookmark> bookmarks = new List<Bookmark>();
+
+    private void DodajStrone()
+    {
+        if (!string.IsNullOrEmpty(newUrl))
+        {
+            if (!newUrl.StartsWith("http://") && !newUrl.StartsWith("https://"))
+            {
+                newUrl = "http://" + newUrl;
+            }
+
+            try
+            {
+                var uri = new Uri(newUrl);
+                var title = string.IsNullOrWhiteSpace(uri.Host)
+                    ? "Brak nazwy"
+                    : uri.Host.StartsWith("www.")
+                        ? uri.Host.Split('.')[1]
+                        : uri.Host.Split('.')[0];
+
+                lastAddedUrl = newUrl;
+                lastAddedTitle = title;
+
+                bookmarks.Add(new Bookmark { Url = newUrl, Title = title });
+
+                newUrl = "";
+            }
+            catch (UriFormatException)
+            {
+                Console.WriteLine("Błąd: Nieprawidłowy format adresu URL");
+            }
+        }
+    }
+
+    private class Bookmark
+    {
+        public string Url { get; set; }
+        public string Title { get; set; }
+    }
+}

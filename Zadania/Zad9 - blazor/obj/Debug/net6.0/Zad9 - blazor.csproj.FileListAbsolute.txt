@@ -1,0 +1,32 @@
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad9 - blazor\bin\Debug\net6.0\appsettings.Development.json
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad9 - blazor\bin\Debug\net6.0\appsettings.json
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad9 - blazor\bin\Debug\net6.0\Zad9 - blazor.staticwebassets.runtime.json
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad9 - blazor\bin\Debug\net6.0\Zad9 - blazor.exe
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad9 - blazor\bin\Debug\net6.0\Zad9 - blazor.deps.json
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad9 - blazor\bin\Debug\net6.0\Zad9 - blazor.runtimeconfig.json
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad9 - blazor\bin\Debug\net6.0\Zad9 - blazor.dll
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad9 - blazor\bin\Debug\net6.0\Zad9 - blazor.pdb
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad9 - blazor\obj\Debug\net6.0\Zad9 - blazor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad9 - blazor\obj\Debug\net6.0\Zad9 - blazor.AssemblyInfoInputs.cache
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad9 - blazor\obj\Debug\net6.0\Zad9 - blazor.AssemblyInfo.cs
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad9 - blazor\obj\Debug\net6.0\Zad9 - blazor.csproj.CoreCompileInputs.cache
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad9 - blazor\obj\Debug\net6.0\Zad9 - blazor.MvcApplicationPartsAssemblyInfo.cache
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad9 - blazor\obj\Debug\net6.0\Zad9 - blazor.RazorAssemblyInfo.cache
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad9 - blazor\obj\Debug\net6.0\Zad9 - blazor.RazorAssemblyInfo.cs
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad9 - blazor\obj\Debug\net6.0\Zad9 - blazor.sourcelink.json
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad9 - blazor\obj\Debug\net6.0\staticwebassets.build.json
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad9 - blazor\obj\Debug\net6.0\staticwebassets.development.json
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad9 - blazor\obj\Debug\net6.0\staticwebassets\msbuild.Zad9 - blazor.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad9 - blazor\obj\Debug\net6.0\staticwebassets\msbuild.build.Zad9 - blazor.props
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad9 - blazor\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Zad9 - blazor.props
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad9 - blazor\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Zad9 - blazor.props
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad9 - blazor\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad9 - blazor\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad9 - blazor\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad9 - blazor\obj\Debug\net6.0\scopedcss\bundle\Zad9 - blazor.styles.css
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad9 - blazor\obj\Debug\net6.0\scopedcss\projectbundle\Zad9 - blazor.bundle.scp.css
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad9 - blazor\obj\Debug\net6.0\Zad9 - blazor.dll
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad9 - blazor\obj\Debug\net6.0\refint\Zad9 - blazor.dll
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad9 - blazor\obj\Debug\net6.0\Zad9 - blazor.pdb
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad9 - blazor\obj\Debug\net6.0\Zad9 - blazor.genruntimeconfig.cache
+D:\Programowanie\UJ\Lab_C#\CSLabs\Zadania\Zad9 - blazor\obj\Debug\net6.0\ref\Zad9 - blazor.dll
